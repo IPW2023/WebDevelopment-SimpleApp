@@ -1,5 +1,6 @@
 {
-    "build": { "dockerfile": "Dockerfile" },
+    // "build": { "dockerfile": "Dockerfile" },
+    "image": "ipworkshop/codespace-rust:1.0",
     "customizations": {
         "vscode": {
             "extensions": [
